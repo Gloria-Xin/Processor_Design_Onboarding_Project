@@ -1,0 +1,3 @@
+/mnt/c/Users/koryc/Processor_Design_Onboarding_Project/labs/build/CMakeFiles/hello_world.dir
+/mnt/c/Users/koryc/Processor_Design_Onboarding_Project/labs/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/koryc/Processor_Design_Onboarding_Project/labs/build/CMakeFiles/rebuild_cache.dir
